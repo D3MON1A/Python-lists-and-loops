@@ -9,4 +9,11 @@ all_colors = [
 ]
 
 #Your code go here:
+def generate_li():
+    filtered_colors= filter_colors(all_colors)
+    message= "".join(list(map(lambda color: f"<li>{color['label']}</li>", filtered_colors)))
+    return message
+def filter_colors(colors):
+    return list(filter(lambda color: color["sexy"], colors))
+print(generate_li())
 

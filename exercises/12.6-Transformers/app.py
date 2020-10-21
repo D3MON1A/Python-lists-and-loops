@@ -7,5 +7,11 @@ incomingAJAXData = [
 ]
 
 #Your code go here:
+def my_var(fullName):
+   
+    return fullName
+
+transformedData= list(map(lambda  person: person["name"] +" "+ person["lastName"], incomingAJAXData))
+print (transformedData)
 
 

@@ -7,3 +7,9 @@ names = ['Liam','Emma','Noah','Olivia','William','Ava','James','Isabella','Logan
 
 
 #Your code go here:
+def onlyAm(only):
+    if "am" in only:
+        return True
+    else:
+        return False
+print(list(filter(onlyAm, names)))

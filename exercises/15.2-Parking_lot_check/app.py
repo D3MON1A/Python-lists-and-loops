@@ -5,5 +5,24 @@ parking_state = [
 ]
 
 #Your code go here:
+def get_parking_lot():
+    totalSlots = []
+    availableSlots = []
+    occupiedSlots = []
+    state={totalSlots, availableSlots, occupiedSlots}
+
+    for slots in parking_state:
+        for status in slots:
+            if status == 0:
+                status.append(availableSlots)
+            elif status > 0:
+                status.append(occupiedSlots)
+            else:
+                status.append(totalSlots=+1)
+
+    print(state)
+
+get_parking_lot()
+
 
 

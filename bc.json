@@ -221,7 +221,7 @@
         {
             "slug": "05.1-sum_odd_items",
             "title": "05.1-sum_odd_items",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-sum_odd_items",
             "translations": [
                 "es",
@@ -232,7 +232,7 @@
         {
             "slug": "06-forEach_loop",
             "title": "06-forEach_loop",
-            "done": false,
+            "done": true,
             "path": "exercises/06-forEach_loop",
             "translations": [
                 "es",
@@ -243,7 +243,7 @@
         {
             "slug": "06.1-Everything_is_awesome",
             "title": "06.1-Everything_is_awesome",
-            "done": false,
+            "done": true,
             "path": "exercises/06.1-Everything_is_awesome",
             "translations": [
                 "es",
@@ -254,7 +254,7 @@
         {
             "slug": "07-Do_while",
             "title": "07-Do_while",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Do_while",
             "translations": [
                 "es",
@@ -287,7 +287,7 @@
         {
             "slug": "08.2-Divide_and_conquer",
             "title": "08.2-Divide_and_conquer",
-            "done": false,
+            "done": true,
             "path": "exercises/08.2-Divide_and_conquer",
             "translations": [
                 "es",
@@ -298,7 +298,7 @@
         {
             "slug": "09-Max_integer_from_list",
             "title": "09-Max_integer_from_list",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Max_integer_from_list",
             "translations": [
                 "es",
@@ -309,7 +309,7 @@
         {
             "slug": "09.1-For_loop_min_value",
             "title": "09.1-For_loop_min_value",
-            "done": false,
+            "done": true,
             "path": "exercises/09.1-For_loop_min_value",
             "translations": [
                 "es",
@@ -320,7 +320,7 @@
         {
             "slug": "10-Find_avg",
             "title": "10-Find_avg",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Find_avg",
             "translations": [
                 "es",
@@ -331,7 +331,7 @@
         {
             "slug": "10.1-And_One_and_a_Two_and_a_Three",
             "title": "10.1-And_One_and_a_Two_and_a_Three",
-            "done": false,
+            "done": true,
             "path": "exercises/10.1-And_One_and_a_Two_and_a_Three",
             "translations": [
                 "es",
@@ -342,7 +342,7 @@
         {
             "slug": "11-Nested_list",
             "title": "11-Nested_list",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Nested_list",
             "translations": [
                 "es",
@@ -364,7 +364,7 @@
         {
             "slug": "12.1-more_mapping",
             "title": "12.1-more_mapping",
-            "done": false,
+            "done": true,
             "path": "exercises/12.1-more_mapping",
             "translations": [
                 "es",
@@ -375,7 +375,7 @@
         {
             "slug": "12.2-Map_function_inside_variable",
             "title": "12.2-Map_function_inside_variable",
-            "done": false,
+            "done": true,
             "path": "exercises/12.2-Map_function_inside_variable",
             "translations": [
                 "es",
@@ -386,7 +386,7 @@
         {
             "slug": "12.3-Map_data_types",
             "title": "12.3-Map_data_types",
-            "done": false,
+            "done": true,
             "path": "exercises/12.3-Map_data_types",
             "translations": [
                 "es",
@@ -419,7 +419,7 @@
         {
             "slug": "12.6-Transformers",
             "title": "12.6-Transformers",
-            "done": false,
+            "done": true,
             "path": "exercises/12.6-Transformers",
             "translations": [
                 "es",
@@ -430,7 +430,7 @@
         {
             "slug": "13-Filter_list",
             "title": "13-Filter_list",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Filter_list",
             "translations": [
                 "es",
@@ -451,7 +451,7 @@
         {
             "slug": "13.2-filter_done_tasks",
             "title": "13.2-filter_done_tasks",
-            "done": false,
+            "done": true,
             "path": "exercises/13.2-filter_done_tasks",
             "translations": [
                 "es",
@@ -462,7 +462,7 @@
         {
             "slug": "13.3-Filter_list_strings",
             "title": "13.3-Filter_list_strings",
-            "done": false,
+            "done": true,
             "path": "exercises/13.3-Filter_list_strings",
             "translations": [
                 "es",
@@ -473,7 +473,7 @@
         {
             "slug": "13.4-Making_HTML_with_filter_and_maP",
             "title": "13.4-Making_HTML_with_filter_and_maP",
-            "done": false,
+            "done": true,
             "path": "exercises/13.4-Making_HTML_with_filter_and_maP",
             "translations": [
                 "es",
@@ -494,7 +494,7 @@
         {
             "slug": "14.2-letter_counter",
             "title": "14.2-letter_counter",
-            "done": false,
+            "done": true,
             "path": "exercises/14.2-letter_counter",
             "translations": [
                 "es",

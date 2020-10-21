@@ -13,3 +13,8 @@ tasks = [
 
 #Your code go here:
 
+def label(onlyTrue):
+    return onlyTrue in tasks==True
+
+print(list(filter(lambda tasks: tasks["done"] == True, tasks)))
+
