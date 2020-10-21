@@ -111,7 +111,7 @@
         {
             "slug": "02-Loop-list",
             "title": "02-Loop-list",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Loop-list",
             "translations": [
                 "es",
@@ -122,7 +122,7 @@
         {
             "slug": "02.1-Loop-from-the-top",
             "title": "02.1-Loop-from-the-top",
-            "done": false,
+            "done": true,
             "path": "exercises/02.1-Loop-from-the-top",
             "translations": [
                 "es",
@@ -133,7 +133,7 @@
         {
             "slug": "02.2-Loop-adding-two",
             "title": "02.2-Loop-adding-two",
-            "done": false,
+            "done": true,
             "path": "exercises/02.2-Loop-adding-two",
             "translations": [
                 "es",
@@ -144,7 +144,7 @@
         {
             "slug": "02.3-loop-from-the-half-to-the-end",
             "title": "02.3-loop-from-the-half-to-the-end",
-            "done": false,
+            "done": true,
             "path": "exercises/02.3-loop-from-the-half-to-the-end",
             "translations": [
                 "es",
@@ -155,7 +155,7 @@
         {
             "slug": "02.4-One_last_looping",
             "title": "02.4-One_last_looping",
-            "done": false,
+            "done": true,
             "path": "exercises/02.4-One_last_looping",
             "translations": [
                 "es",
@@ -166,7 +166,7 @@
         {
             "slug": "02.5-Finding_wally",
             "title": "02.5-Finding_wally",
-            "done": false,
+            "done": true,
             "path": "exercises/02.5-Finding_wally",
             "translations": [
                 "es",
@@ -177,7 +177,7 @@
         {
             "slug": "03-flip_list",
             "title": "03-flip_list",
-            "done": false,
+            "done": true,
             "path": "exercises/03-flip_list",
             "translations": [
                 "es",
@@ -188,7 +188,7 @@
         {
             "slug": "04-mixed_list",
             "title": "04-mixed_list",
-            "done": false,
+            "done": true,
             "path": "exercises/04-mixed_list",
             "translations": [
                 "es",
@@ -199,7 +199,7 @@
         {
             "slug": "04.1-count_on",
             "title": "04.1-count_on",
-            "done": false,
+            "done": true,
             "path": "exercises/04.1-count_on",
             "translations": [
                 "es",
