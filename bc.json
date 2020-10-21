@@ -56,7 +56,7 @@
         {
             "slug": "01.1-Access-and-Retrieve",
             "title": "01.1-Access-and-Retrieve",
-            "done": false,
+            "done": true,
             "path": "exercises/01.1-Access-and-Retrieve",
             "translations": [
                 "es",
@@ -67,7 +67,7 @@
         {
             "slug": "01.2-Retrieve-items",
             "title": "01.2-Retrieve-items",
-            "done": false,
+            "done": true,
             "path": "exercises/01.2-Retrieve-items",
             "translations": [
                 "es",
@@ -78,7 +78,7 @@
         {
             "slug": "01.3-Print-the-last-one",
             "title": "01.3-Print-the-last-one",
-            "done": false,
+            "done": true,
             "path": "exercises/01.3-Print-the-last-one",
             "translations": [
                 "es",
@@ -89,7 +89,7 @@
         {
             "slug": "01.4-Add-item-to-list",
             "title": "01.4-Add-item-to-list",
-            "done": false,
+            "done": true,
             "path": "exercises/01.4-Add-item-to-list",
             "translations": [
                 "es",
@@ -100,7 +100,7 @@
         {
             "slug": "01.5-loop-seventeen",
             "title": "01.5-loop-seventeen",
-            "done": false,
+            "done": true,
             "path": "exercises/01.5-loop-seventeen",
             "translations": [
                 "es",
