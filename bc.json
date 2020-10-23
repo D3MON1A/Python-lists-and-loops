@@ -210,7 +210,7 @@
         {
             "slug": "05-Sum_all_items",
             "title": "05-Sum_all_items",
-            "done": false,
+            "done": true,
             "path": "exercises/05-Sum_all_items",
             "translations": [
                 "es",
@@ -265,7 +265,7 @@
         {
             "slug": "08-Delete_element",
             "title": "08-Delete_element",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Delete_element",
             "translations": [
                 "es",
@@ -276,7 +276,7 @@
         {
             "slug": "08.1-Merge_list",
             "title": "08.1-Merge_list",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Merge_list",
             "translations": [
                 "es",
@@ -353,7 +353,7 @@
         {
             "slug": "12-Map_a_list",
             "title": "12-Map_a_list",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Map_a_list",
             "translations": [
                 "es",
@@ -408,7 +408,7 @@
         {
             "slug": "12.5-Yes_and_no",
             "title": "12.5-Yes_and_no",
-            "done": false,
+            "done": true,
             "path": "exercises/12.5-Yes_and_no",
             "translations": [
                 "es",
@@ -516,7 +516,7 @@
         {
             "slug": "15.2-Parking_lot_check",
             "title": "15.2-Parking_lot_check",
-            "done": false,
+            "done": true,
             "path": "exercises/15.2-Parking_lot_check",
             "translations": [
                 "es",

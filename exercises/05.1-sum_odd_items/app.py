@@ -7,6 +7,6 @@ def sumOdds():
      if (arr[number] % 2 !=0):
         totalSum=totalSum + arr[number]
      print (totalSum)
-print(sumOdds())
+sumOdds()
 
 
