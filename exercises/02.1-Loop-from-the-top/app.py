@@ -3,8 +3,8 @@ i = my_sample_list[-1]
 
 for i in range (len (my_sample_list)-1, -1, -1):
     print (my_sample_list[i])
-while i > 0:
-    print(my_sample_list[i])
+# while i > 0:
+#     print(my_sample_list[i])
 
 # The magic pass below:
 # Create a variable, like "i", that uses the last index position in the array "my_sample_list". Remember we can access the length property of an array using len, and that the position will always be 1 less than the item number (item one is index 0, item 5653 would be one less...) 
