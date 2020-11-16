@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://eed230c0-7078-4962-97c2-56b14e14ab85.ws-us02.gitpod.io",
+    "address": "https://a4781153-2dc8-4aa4-a093-83752b159c8a.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -397,7 +397,7 @@
         {
             "slug": "12.4-Map_list_of_objects",
             "title": "12.4-Map_list_of_objects",
-            "done": false,
+            "done": true,
             "path": "exercises/12.4-Map_list_of_objects",
             "translations": [
                 "es",
@@ -441,7 +441,7 @@
         {
             "slug": "13.1-Filter_and_list",
             "title": "13.1-Filter_and_list",
-            "done": false,
+            "done": true,
             "path": "exercises/13.1-Filter_and_list",
             "translations": [
                 "us"
@@ -484,7 +484,7 @@
         {
             "slug": "14-Loop-dictionary",
             "title": "14-Loop-dictionary",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Loop-dictionary",
             "translations": [
                 "us"
@@ -527,7 +527,7 @@
         {
             "slug": "16-Techno_beat",
             "title": "16-Techno_beat",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Techno_beat",
             "translations": [
                 "es",
